@@ -1,0 +1,13 @@
+/.venv/
+/data/
+/downloads/
+/archives/
+/temp/
+/dist/
+__pycache__/
+*.py[cod]
+*.log
+.env*
+.streamlit/secrets.toml
+*cookies*.txt
+*api_keys*

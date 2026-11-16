@@ -1,0 +1,4 @@
+streamlit>=1.56,<2
+requests>=2.32.5,<3
+webvtt-py>=0.5.1,<1
+yt-dlp[default]>=2026.8.19
